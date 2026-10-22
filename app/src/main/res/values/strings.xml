@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Glyph Toy</string>
+    <string name="toy_name">Clock</string>
+    <string name="toy_summary">Glyph Matrix に時刻を表示します</string>
+    <string name="how_to_enable">この Toy を使うには：\n\n設定 → Glyph Interface → Flip to Glyph → Always-on Glyph Toy で「Clock」を選んでください。\n\n開発中は PC から次のコマンドで Glyph 開発者モードを有効にしてください（48時間で切れます）：\n\nadb shell settings put global nt_glyph_interface_debug_enable 1</string>
+</resources>

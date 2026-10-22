@@ -1,0 +1,13 @@
+# Gradle / Android Studio
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+.DS_Store
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Nothing Glyph Matrix SDK（ライセンス上、再配布不可）
+app/libs/*.aar
